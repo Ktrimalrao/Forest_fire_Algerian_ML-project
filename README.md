@@ -14,6 +14,8 @@
 
 ---
 
+![image alt](https://github.com/Ktrimalrao/Forest_fire_Algerian_ML-project/blob/2bc9e79e0b33cba223ef8b806dd5c0d764099346/Screenshot%202024-12-29%20122115.png)
+
 ## Project Overview
 The **Forest Fire Algerian ML Project** aims to predict the likelihood and severity of forest fires in Algeria based on weather conditions and other environmental factors. The model developed can help authorities and environmental agencies take preventive measures to minimize fire risks.
 
