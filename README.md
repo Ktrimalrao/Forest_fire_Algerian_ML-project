@@ -127,11 +127,10 @@ Predict whether a forest fire will occur and classify its severity based on mete
 ---
 
 ## Model Performance
-The best-performing model is **Gradient Boosting**, achieving the following metrics:
-- **Accuracy**: 93%
-- **F1-score**: 91%
-- **ROC-AUC**: 0.95
-
+The best-performing model is **Ridge Regression model**, achieving the following metrics:
+- **R2 Score**: 98.42%
+- **Mean absolute error**: 0.56
+  
 ---
 
 ## How to Use
@@ -180,4 +179,5 @@ The best-performing model is **Gradient Boosting**, achieving the following metr
 We thank the creators of the Algerian forest fire dataset for their valuable contribution to environmental and disaster management research.
 
 **Author**: Ktrimalrao  
-**GitHub**: [link](https://github.com/Ktrimalrao)
+**GitHub**: [https://github.com/Ktrimalrao](https://github.com/Ktrimalrao)
+**LinkdIn**: [www.linkedin.com/in/k-trimal-rao](www.linkedin.com/in/k-trimal-rao-397924253)
